@@ -31,7 +31,7 @@
       }
       
       .border-2 {
-        border: 4px dashed blueviolet;
+        border: 4px dashed blue;
         padding: 36px;
         margin: 20px;
       }
