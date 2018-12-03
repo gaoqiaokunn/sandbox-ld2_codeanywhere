@@ -2,6 +2,60 @@
 <html lang="ja">
   <head>
     <title>火鍋会の準備</title>
+    <style>
+      h1 {
+        font-size: 35px;
+        color: black;
+        background: #00ffff;
+      }
+      
+      .font-1 {
+        font-family: serif;
+      }
+      
+      .font-2 {
+        font-family: sans-serif;
+      }
+      
+      .weight-1 {
+        font-weight: normal;
+      }
+      
+      .weight-2 {
+        font-weight: bold;
+      }
+      
+      .border-1 {
+        border: 2px solid black;
+        padding: 15px;
+      }
+      
+      .border-2 {
+        border: 4px dashed blueviolet;
+        padding: 36px;
+        margin: 20px;
+      }
+      
+      h3 {
+        font-size: 45px;
+        color: green;
+      }
+      
+      p {
+        font-size: 30px;
+        color: red;
+        background-color: gray;
+      }
+      
+      ul {
+        font-size: 30px;
+        color: black;
+        background: white;
+        padding: 10px;
+        margin: 8px;
+        border: 3px dotted green;
+      }
+    </style>
   </head>
   <body>
     <h1>
@@ -10,6 +64,9 @@
     <h3>
       開催場所の確保→月曜に予約しにいく
     </h3>
+    <p>
+      開催場所予約済み
+    </p>
     <h3>
       必要なもの
     </h3>
@@ -27,5 +84,32 @@
       <li>豚肉</li>
       <li>火鍋底料</li>
     </ul>
+    <p class="font-1">
+      フォント(セリフ体)
+    </p>
+    <p class="font-2">
+      お試しフォント(サンセリフ体)
+    </p>
+    <p class="weight-1">
+      ウェイト(ノーマル)
+    </p>
+    <p class="weight-2">
+      お試しウェイト(ボールド)
+    </p>
+    <p class="border-1">
+     ボーダー(ソリッド)
+    </p>
+    <p class="border-2">
+      お試しボーダー(ダッシュ)
+    </p>
   </body>
 </html>
+
+
+
+
+
+
+
+
+
